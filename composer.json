@@ -1,0 +1,12 @@
+{
+  "name": "msamoyle/328/hello",
+  "authors": [
+    {
+      "name": "Maksim Samoylenko",
+      "email": "samoylenko.maksim@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
